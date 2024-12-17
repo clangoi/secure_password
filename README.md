@@ -1,4 +1,4 @@
-# How Much Secure is your Password?
+# How Secure is your Password?
  Machinelearning for checking passwords security
 
 Proyect for Data Mining course from Ponthifical Cotholical University of Chile, 2024 1'
